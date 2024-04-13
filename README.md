@@ -1,23 +1,26 @@
 ### Hi there 👋
+
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm John Mutave</h1>
-<h3 align="center">A passionate Software Engineer from Kenya</h3>
+<h1 align="center">I'm John Mutave</h1>
+<h3 align="center">A passionate | Software Engineer | Security Forensics | Networking Specialist | from Kenya</h3>
 <img align="right" alt="coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jellyjones-pixel&label=Profile%20views&color=0e75b6&style=flat" alt="jellyjones-pixel" /> </p>
 
 <p align="left"> <a href="https://twitter.com/johnmutave1" target="blank"><img src="https://img.shields.io/twitter/follow/johnmutave1?logo=twitter&style=for-the-badge" alt="johnmutave1" /></a> </p>
 
-- 🔭 I’m currently working on **Search Algorithms**
+- 🔭 I’m currently working on **Web Servers**
 
-- 🌱 I’m currently learning **Software Engineering@Alx_Africa**
+- 🌱 I’m currently learning **Software Engineering@Alx_Africa and Cyber Shujaa**
+  
+- 🌱 I’m graduate at **KCA University for BSC. in Applied Computing, CCNA 1, 2 and 3**
 
-- 💬 Ask me about **React,MEARN**
+- 💬 Ask me about **Web Severs,Algorithms**
 
 - 📫 How to reach me **albogreen.tech@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I can own a networking company in Afica**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
