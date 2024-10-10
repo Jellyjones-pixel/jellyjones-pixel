@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **albogreen.tech@gmail.com**
 
-- ⚡ Fun fact **I think I can own a networking company in Afica**
+- ⚡ Fun fact **I think I can own a networking company in Africa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
